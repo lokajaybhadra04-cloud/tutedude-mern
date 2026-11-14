@@ -1,0 +1,71 @@
+
+html {
+    background-color: #ffffff;
+}
+
+body {
+    background-color: coral;
+    border: 3px solid #000000;
+    margin: 20px;
+    min-height: 420px;
+    padding: 8px;
+}
+
+
+.head {
+    color: darkblue;
+}
+
+#bglime {
+    background-color: lime;
+}
+
+h2#bglime {
+    color: red;
+}
+
+
+p {
+    color: white;
+}
+
+#para {
+    color: green;
+    font-size: 1.2em;
+}
+
+
+a[href*="linkedin"] {
+    background-color: lime;
+    color: darkblue;
+}
+
+a[href*="google"] {
+    background-color: blue;
+    color: white;
+}
+
+
+ol li:nth-child(2) {
+    color: blue;
+}
+
+ol li:nth-child(3) {
+    color: red;
+}
+
+h1 {
+    font-size: 1.15em;
+}
+
+h2 {
+    font-size: 1.55em;
+}
+
+h3 {
+    font-size: 0.8em;
+}
+
+h4 {
+    font-size: 1em;
+}
